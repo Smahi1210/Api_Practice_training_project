@@ -1,5 +1,6 @@
 package com.example.mahipalsingh_trainingproject
 
+//noinspection SuspiciousImport
 import android.R
 import android.os.Bundle
 import android.widget.ArrayAdapter
